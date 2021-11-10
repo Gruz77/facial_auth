@@ -25,6 +25,4 @@ Quicly, you can create an application ".app" (macOS) with [Automator](https://su
 
 ---
 
-<video width="320" height="240" controls>
-  <source src="assets/example.mp4" type="video/mp4">
-</video>
+![](assets/example.gif)
