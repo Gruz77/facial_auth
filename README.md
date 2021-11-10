@@ -1,5 +1,7 @@
 # Facial Authentification
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Own facial authentification (on macOS) in 10 minutes with laptop locking and voice assistant. 
 
 Quick intro: [Slides presentation](https://gruz77.github.io/facial_auth/#/Home)
