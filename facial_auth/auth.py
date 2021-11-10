@@ -3,7 +3,7 @@ import cv2
 from utils import FacialRecoLogin
 
 # Time before locking/unlocking (in seconds)
-time_before_lock = 50
+time_before_lock = 3
 
 
 if __name__ == '__main__':
