@@ -15,6 +15,7 @@ class FacialRecoLogin(object):
         """
         Input:
             - other_persons: dictionnary with key/value pairs as "person_name": "person_name.png"
+            - time_before_lock: Time decreasing to 0, before locking/unlocking the laptop.
         """
         # Type check-in -> dictionnary if other users added
         if not isinstance(other_persons, dict):
