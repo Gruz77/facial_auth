@@ -4,6 +4,8 @@ Own facial authentification (on macOS) in 10 minutes with laptop locking and voi
 
 Quick intro: [Slides presentation](https://gruz77.github.io/facial_auth/#/Home)
 
+---
+
 ## Facial recognition
 Using the simple [facial_recognition](https://github.com/ageitgey/face_recognition) library.
 
@@ -20,3 +22,7 @@ Can select language and gender.
 
 ## Task Manager
 Quicly, you can create an application ".app" (macOS) with [Automator](https://support.apple.com/fr-ne/guide/automator/welcome/mac) (already installed) and then schedule the task with [EventScripts](https://www.mousedown.net/software/EventScripts.html) (but now it has become a paid service... so why not [cron jobs at reboot](https://phoenixnap.com/kb/crontab-reboot)?)
+
+---
+
+![Example](assets/example.mp4)
