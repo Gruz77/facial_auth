@@ -8,14 +8,14 @@ Quick intro: [Slides presentation](https://gruz77.github.io/facial_auth/#/Home)
 Using the simple [facial_recognition](https://github.com/ageitgey/face_recognition) library.
 
 ## Laptop locking
-Just put the following magic elvish command in a python script and your laptop will be locked:
+Just put the following magic elvish command (applescript) in a python script and your laptop (macOS) will be locked:
 ```python
 import os
 os.system("osascript -e 'tell app \"loginwindow\" to  «event aevtrlgo»'")
 ```
 
 ## Voice assistant (Text-to-Speech)
-Using the simple [pyttsx3](https://github.com/nateshmbhat/pyttsx3) library, which uses the driver.
+Using the simple [pyttsx3](https://github.com/nateshmbhat/pyttsx3) offline library, which uses the driver.
 Can select language and gender. 
 
 ## Task Manager
